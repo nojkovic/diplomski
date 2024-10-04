@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\usecasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\usecasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\usecases\\queries\\coachtraining\\efgetcoachtrainingsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\usecases\\queries\\coachtraining\\efgetcoachtrainingsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\usecases\\commands\\ratings\\efaddratingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\usecases\\commands\\ratings\\efaddratingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\usecases\\queries\\reservation\\efgetreservationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\usecases\\queries\\reservation\\efgetreservationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5FE707-D7AD-45CB-A211-88219C753DCC}|Gym.Application\\Gym.Application.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.application\\dto\\reservation\\searchreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5FE707-D7AD-45CB-A211-88219C753DCC}|Gym.Application\\Gym.Application.csproj|solutionrelative:gym.application\\dto\\reservation\\searchreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\usecases\\commands\\reservations\\efupdatereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\usecases\\commands\\reservations\\efupdatereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\usecases\\commands\\users\\efregisterusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\usecases\\commands\\users\\efregisterusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\usecases\\commands\\membershipfees\\efaddmembershipfeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\usecases\\commands\\membershipfees\\efaddmembershipfeecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F561B1D-800C-4E61-A535-EF4F941F2069}|Gym.API\\Gym.API.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.api\\controllers\\membershipfeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F561B1D-800C-4E61-A535-EF4F941F2069}|Gym.API\\Gym.API.csproj|solutionrelative:gym.api\\controllers\\membershipfeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\validators\\location\\locationbasevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\validators\\location\\locationbasevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\validators\\gym\\gymbasevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\validators\\gym\\gymbasevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\validators\\user\\userbasevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\validators\\user\\userbasevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\profiles\\gym\\gymprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\profiles\\gym\\gymprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD5FE707-D7AD-45CB-A211-88219C753DCC}|Gym.Application\\Gym.Application.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.application\\dto\\gym\\responsegymdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD5FE707-D7AD-45CB-A211-88219C753DCC}|Gym.Application\\Gym.Application.csproj|solutionrelative:gym.application\\dto\\gym\\responsegymdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\usecases\\queries\\gym\\efgetgymsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\usecases\\queries\\gym\\efgetgymsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\usecases\\commands\\gyms\\efupdategymcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\usecases\\commands\\gyms\\efupdategymcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.implementation\\usecases\\commands\\gymtrainings\\efupdategymtrainingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BA04645-7BED-4A0F-AFC6-C2D0386E7F89}|Gym.Implementation\\Gym.Implementation.csproj|solutionrelative:gym.implementation\\usecases\\commands\\gymtrainings\\efupdategymtrainingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F561B1D-800C-4E61-A535-EF4F941F2069}|Gym.API\\Gym.API.csproj|c:\\users\\nojko\\desktop\\gym.domain\\gym.api\\core\\containerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F561B1D-800C-4E61-A535-EF4F941F2069}|Gym.API\\Gym.API.csproj|solutionrelative:gym.api\\core\\containerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContainerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.API\\Core\\ContainerExtension.cs",
+              "RelativeDocumentMoniker": "Gym.API\\Core\\ContainerExtension.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.API\\Core\\ContainerExtension.cs",
+              "RelativeToolTip": "Gym.API\\Core\\ContainerExtension.cs",
+              "ViewState": "AQIAAMQAAAAAAAAAAAAwwNMAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T14:20:07.584Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EfGetCoachTrainingsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Queries\\CoachTraining\\EfGetCoachTrainingsQuery.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\UseCases\\Queries\\CoachTraining\\EfGetCoachTrainingsQuery.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Queries\\CoachTraining\\EfGetCoachTrainingsQuery.cs",
+              "RelativeToolTip": "Gym.Implementation\\UseCases\\Queries\\CoachTraining\\EfGetCoachTrainingsQuery.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:41:03.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchReservation.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Application\\DTO\\Reservation\\SearchReservation.cs",
+              "RelativeDocumentMoniker": "Gym.Application\\DTO\\Reservation\\SearchReservation.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Application\\DTO\\Reservation\\SearchReservation.cs",
+              "RelativeToolTip": "Gym.Application\\DTO\\Reservation\\SearchReservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:19:01.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfUpdateReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\Reservations\\EfUpdateReservationCommand.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\UseCases\\Commands\\Reservations\\EfUpdateReservationCommand.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\Reservations\\EfUpdateReservationCommand.cs",
+              "RelativeToolTip": "Gym.Implementation\\UseCases\\Commands\\Reservations\\EfUpdateReservationCommand.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwDwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:52:50.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UseCaseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCaseHandler.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\UseCaseHandler.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCaseHandler.cs",
+              "RelativeToolTip": "Gym.Implementation\\UseCaseHandler.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAcwDgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:28:04.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EfAddRatingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\Ratings\\EfAddRatingCommand.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\UseCases\\Commands\\Ratings\\EfAddRatingCommand.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\Ratings\\EfAddRatingCommand.cs",
+              "RelativeToolTip": "Gym.Implementation\\UseCases\\Commands\\Ratings\\EfAddRatingCommand.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA2wBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:27:23.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EfAddMembershipFeeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\MembershipFees\\EfAddMembershipFeeCommand.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\UseCases\\Commands\\MembershipFees\\EfAddMembershipFeeCommand.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\MembershipFees\\EfAddMembershipFeeCommand.cs",
+              "RelativeToolTip": "Gym.Implementation\\UseCases\\Commands\\MembershipFees\\EfAddMembershipFeeCommand.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAArwCgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:17:35.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MembershipFeesController.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.API\\Controllers\\MembershipFeesController.cs",
+              "RelativeDocumentMoniker": "Gym.API\\Controllers\\MembershipFeesController.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.API\\Controllers\\MembershipFeesController.cs",
+              "RelativeToolTip": "Gym.API\\Controllers\\MembershipFeesController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T22:11:52.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfRegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
+              "RelativeToolTip": "Gym.Implementation\\UseCases\\Commands\\Users\\EfRegisterUserCommand.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADgvx8AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T22:41:04.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EfGetReservationsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Queries\\Reservation\\EfGetReservationsQuery.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\UseCases\\Queries\\Reservation\\EfGetReservationsQuery.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Queries\\Reservation\\EfGetReservationsQuery.cs",
+              "RelativeToolTip": "Gym.Implementation\\UseCases\\Queries\\Reservation\\EfGetReservationsQuery.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwDgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T21:38:51.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LocationBaseValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\Validators\\Location\\LocationBaseValidator.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\Validators\\Location\\LocationBaseValidator.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\Validators\\Location\\LocationBaseValidator.cs",
+              "RelativeToolTip": "Gym.Implementation\\Validators\\Location\\LocationBaseValidator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T18:02:55.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserBaseValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\Validators\\User\\UserBaseValidator.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\Validators\\User\\UserBaseValidator.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\Validators\\User\\UserBaseValidator.cs",
+              "RelativeToolTip": "Gym.Implementation\\Validators\\User\\UserBaseValidator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBwAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:19:34.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GymBaseValidator.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\Validators\\Gym\\GymBaseValidator.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\Validators\\Gym\\GymBaseValidator.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\Validators\\Gym\\GymBaseValidator.cs",
+              "RelativeToolTip": "Gym.Implementation\\Validators\\Gym\\GymBaseValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:18:43.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GymProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\Profiles\\Gym\\GymProfiles.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\Profiles\\Gym\\GymProfiles.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\Profiles\\Gym\\GymProfiles.cs",
+              "RelativeToolTip": "Gym.Implementation\\Profiles\\Gym\\GymProfiles.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAuwI4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:56:23.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseGymDTO.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Application\\DTO\\Gym\\ResponseGymDTO.cs",
+              "RelativeDocumentMoniker": "Gym.Application\\DTO\\Gym\\ResponseGymDTO.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Application\\DTO\\Gym\\ResponseGymDTO.cs",
+              "RelativeToolTip": "Gym.Application\\DTO\\Gym\\ResponseGymDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:55:57.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EfGetGymsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Queries\\Gym\\EfGetGymsQuery.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\UseCases\\Queries\\Gym\\EfGetGymsQuery.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Queries\\Gym\\EfGetGymsQuery.cs",
+              "RelativeToolTip": "Gym.Implementation\\UseCases\\Queries\\Gym\\EfGetGymsQuery.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:26:21.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EfUpdateGymCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\Gyms\\EfUpdateGymCommand.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\UseCases\\Commands\\Gyms\\EfUpdateGymCommand.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\Gyms\\EfUpdateGymCommand.cs",
+              "RelativeToolTip": "Gym.Implementation\\UseCases\\Commands\\Gyms\\EfUpdateGymCommand.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAAAJsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:37:52.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EfUpdateGymTrainingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\GymTrainings\\EfUpdateGymTrainingCommand.cs",
+              "RelativeDocumentMoniker": "Gym.Implementation\\UseCases\\Commands\\GymTrainings\\EfUpdateGymTrainingCommand.cs",
+              "ToolTip": "C:\\Users\\nojko\\Desktop\\Gym.Domain\\Gym.Implementation\\UseCases\\Commands\\GymTrainings\\EfUpdateGymTrainingCommand.cs",
+              "RelativeToolTip": "Gym.Implementation\\UseCases\\Commands\\GymTrainings\\EfUpdateGymTrainingCommand.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA4wCAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:22:01.992Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

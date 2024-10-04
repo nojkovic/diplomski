@@ -1,0 +1,17 @@
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\bin\Debug\net8.0\Gym.DataAccess.deps.json
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\bin\Debug\net8.0\Gym.DataAccess.runtimeconfig.json
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\bin\Debug\net8.0\Gym.DataAccess.dll
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\bin\Debug\net8.0\Gym.DataAccess.pdb
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\bin\Debug\net8.0\Gym.Domain.dll
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\bin\Debug\net8.0\Gym.Domain.pdb
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\obj\Debug\net8.0\Gym.DataAccess.csproj.AssemblyReference.cache
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\obj\Debug\net8.0\Gym.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\obj\Debug\net8.0\Gym.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\obj\Debug\net8.0\Gym.DataAccess.AssemblyInfo.cs
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\obj\Debug\net8.0\Gym.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\obj\Debug\net8.0\Gym.Data.C42292A8.Up2Date
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\obj\Debug\net8.0\Gym.DataAccess.dll
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\obj\Debug\net8.0\refint\Gym.DataAccess.dll
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\obj\Debug\net8.0\Gym.DataAccess.pdb
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\obj\Debug\net8.0\Gym.DataAccess.genruntimeconfig.cache
+C:\Users\nojko\Desktop\Gym.Domain\Gym.DataAccess\obj\Debug\net8.0\ref\Gym.DataAccess.dll

@@ -1,0 +1,11 @@
+C:\Users\nojko\Desktop\Gym.Domain\Gym.Domain\bin\Debug\net8.0\Gym.Domain.deps.json
+C:\Users\nojko\Desktop\Gym.Domain\Gym.Domain\bin\Debug\net8.0\Gym.Domain.dll
+C:\Users\nojko\Desktop\Gym.Domain\Gym.Domain\bin\Debug\net8.0\Gym.Domain.pdb
+C:\Users\nojko\Desktop\Gym.Domain\Gym.Domain\obj\Debug\net8.0\Gym.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nojko\Desktop\Gym.Domain\Gym.Domain\obj\Debug\net8.0\Gym.Domain.AssemblyInfoInputs.cache
+C:\Users\nojko\Desktop\Gym.Domain\Gym.Domain\obj\Debug\net8.0\Gym.Domain.AssemblyInfo.cs
+C:\Users\nojko\Desktop\Gym.Domain\Gym.Domain\obj\Debug\net8.0\Gym.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nojko\Desktop\Gym.Domain\Gym.Domain\obj\Debug\net8.0\Gym.Domain.dll
+C:\Users\nojko\Desktop\Gym.Domain\Gym.Domain\obj\Debug\net8.0\refint\Gym.Domain.dll
+C:\Users\nojko\Desktop\Gym.Domain\Gym.Domain\obj\Debug\net8.0\Gym.Domain.pdb
+C:\Users\nojko\Desktop\Gym.Domain\Gym.Domain\obj\Debug\net8.0\ref\Gym.Domain.dll

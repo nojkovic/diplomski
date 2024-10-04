@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Controllers\AppointmentsController.cs" />
+    <Content Include="Controllers\AuthController.cs" />
+    <Content Include="Controllers\CoachsController.cs" />
+    <Content Include="Controllers\CoachTrainingsController.cs" />
+    <Content Include="Controllers\ContactsController.cs" />
+    <Content Include="Controllers\FileController.cs" />
+    <Content Include="Controllers\GroupTrainingsController.cs" />
+    <Content Include="Controllers\GymsController.cs" />
+    <Content Include="Controllers\LocationsController.cs" />
+    <Content Include="Controllers\MembershipFeesController.cs" />
+    <Content Include="Controllers\PersonalTrainingsController.cs" />
+    <Content Include="Controllers\PhotosController.cs" />
+    <Content Include="Controllers\ReservationsController.cs" />
+    <Content Include="Controllers\StatusController.cs" />
+    <Content Include="Controllers\TrainingsController.cs" />
+    <Content Include="Controllers\UsersController.cs" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="BCrypt.Net" Version="0.1.0" />
+		<PackageReference Include="FluentValidation" Version="11.9.1" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.6" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Gym.Application\Gym.Application.csproj" />
+    <ProjectReference Include="..\Gym.DataAccess\Gym.DataAccess.csproj" />
+    <ProjectReference Include="..\Gym.Domain\Gym.Domain.csproj" />
+    <ProjectReference Include="..\Gym.Implementation\Gym.Implementation.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\gym\" />
+    <Folder Include="wwwroot\coach\" />
+    <Folder Include="wwwroot\temp\" />
+  </ItemGroup>
+
+</Project>
